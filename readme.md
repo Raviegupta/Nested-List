@@ -16,4 +16,4 @@
     ```
 
 * ol list type attribute
-    `type= a, A, i, I, 1 `
+    - `type= a, A, i, I, 1 `
